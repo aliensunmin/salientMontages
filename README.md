@@ -18,7 +18,7 @@ The code to visualize the frame, ground truth annotations are included as well.
 		-util\ % utilities functinos
 
 # Initialization
-* download data from xxx
+* download data from <a href="https://drive.google.com/file/d/0B_HF_TB0NpwCLXF2R2x4VFhaalk/edit?usp=sharing">here</a>
 * Start matlab at the project root, enter ''addpath(genpath('code'))``
 
 # Privacy requirement
